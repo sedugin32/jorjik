@@ -6,7 +6,7 @@ from aiogram import Dispatcher
 from aiogram import types
 from aiogram.filters import CommandStart, Command
 
-TOKEN = "6716223788:AAF2R1VCu7BnNYMsFPINLm6WMbVpfrUZoSc"
+TOKEN = "__"
 
 dp = Dispatcher()
 
